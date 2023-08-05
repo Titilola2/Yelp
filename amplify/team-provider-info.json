@@ -1,0 +1,26 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify5dd140d968a14-staging-95008-authRole",
+      "UnauthRoleArn": "arn:aws:iam::765235531843:role/amplify-amplify5dd140d968a14-staging-95008-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::765235531843:role/amplify-amplify5dd140d968a14-staging-95008-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify5dd140d968a14-staging-95008-deployment",
+      "UnauthRoleName": "amplify-amplify5dd140d968a14-staging-95008-unauthRole",
+      "StackName": "amplify-amplify5dd140d968a14-staging-95008",
+      "StackId": "arn:aws:cloudformation:us-east-1:765235531843:stack/amplify-amplify5dd140d968a14-staging-95008/4c0b3270-32ac-11ee-9618-0a2e3407327b",
+      "AmplifyAppId": "d6f97pwn6xaab"
+    },
+    "categories": {
+      "auth": {
+        "dropbox36b783fd": {}
+      },
+      "api": {
+        "dropbox": {}
+      },
+      "storage": {
+        "imagestorage": {}
+      }
+    }
+  }
+}
